@@ -1,10 +1,10 @@
 # Express Backend 
 
 # Tech stack
-### 'Express'
+### `Express`
 
 ## Routes:
-/goods (GET)
+### `/goods` (GET)
 Returns: {
     Product: string,
     SKU: string,
