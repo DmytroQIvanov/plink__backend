@@ -15,7 +15,7 @@ Returns: {
 
 ## Hosting - Heroku
 
-Backend-Production: https://plink-backend333.herokuapp.com
+Backend-production: https://plink-backend333.herokuapp.com
 
 Frontend-production: https://plink-21fe1.firebaseapp.com
 
