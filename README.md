@@ -17,6 +17,6 @@ Returns: {
 
 Backend-Production: https://plink-backend333.herokuapp.com
 
-Frontend-production: https://plink-21fe1.web.app
+Frontend-production: https://plink-21fe1.firebaseapp.com
 
 Frontend-development: https://github.com/DmytroQIvanov/plink__frontend
